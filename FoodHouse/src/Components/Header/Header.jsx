@@ -7,8 +7,8 @@ const Header = () => {
     <div className='header'>
        <div className="header-contents">
         <h2>Welcome to FoodHouse <br /> order your food now</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores dignissimos ipsam optio.</p>
-        <button>View Menu</button>
+        <p>The greatest  foodHouse is here. We provide the best food for you and the fastest delivery. so order your food now don't be late.</p>
+        <a  href='#explore-menu' ><button>View Menu</button></a>
        </div>
     </div>
   )
