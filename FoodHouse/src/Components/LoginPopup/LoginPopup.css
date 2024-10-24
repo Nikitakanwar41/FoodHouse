@@ -60,5 +60,16 @@
     align-items: start;
     gap: 8px;
     margin-top: -15px;
-    
+
+}
+
+.login-popup-condition input{
+    margin-top: 3px;
+}
+
+
+.login-popup p span{
+color: #fb8f01;
+font-weight: 500;
+cursor: pointer;
 }
